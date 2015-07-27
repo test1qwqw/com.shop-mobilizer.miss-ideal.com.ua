@@ -3,10 +3,10 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.shop-mobilizer.miss-ideal.com.ua"
-  version     = "15.07.14"
-  versionCode = "150714"
+  version     = "15.07.27"
+  versionCode = "150727"
 >
-  <name>Интернет магазин - Мисс Идеал</name>
+  <name>Интернет магазин "Мисс Идеал"</name>
   <author
     href="http://shop-mobilizer.com"
     email="info@shop-mobilizer.com">ShopMobilizer
