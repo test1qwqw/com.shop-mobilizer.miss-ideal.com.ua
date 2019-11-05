@@ -19,6 +19,7 @@
   <platform name="android">
     <icon   src="res/icon/android/icon.png"/>
     <splash src="res/splash/android/Logo.png"/>
+    <resource-file src="google-services.json" target="app/google-services.json"/>
   </platform>
 
   <platform name="ios">
